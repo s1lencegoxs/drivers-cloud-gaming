@@ -1,1 +1,10 @@
 Verifique se o seu provedor de serviços em nuvem permite a instalação de DRIVERS NVIDIA, pois algumas nuvens podem limitar o acesso a resoluções acima de 900p após a atualização do driver.
+
+# NVIDIA GRID 16.1
+https://storage.googleapis.com/nvidia-drivers-us-public/GRID/vGPU16.1/537.13_grid_win10_win11_server2019_server2022_dch_64bit_international.exe
+
+# NVIDIA GRID 16.0
+https://storage.googleapis.com/nvidia-drivers-us-public/GRID/vGPU16.0/536.25_grid_win10_win11_server2019_server2022_dch_64bit_international.exe
+
+# NVIDIA GRID 15.3
+https://storage.googleapis.com/nvidia-drivers-us-public/GRID/vGPU15.3/529.11_grid_win10_win11_server2019_server2022_dch_64bit_international.exe
